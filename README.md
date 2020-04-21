@@ -1,5 +1,7 @@
 # Discuss
 
+Discuss is an Elixir/Phoenix forum app.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
